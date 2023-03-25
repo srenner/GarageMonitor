@@ -37,10 +37,10 @@ NIOSH recommends an airborne exposure limit of 1ppm.
 
 ## API
 | URI                | Method | Notes 
-| ---                | ---    | --- |
-| /api/flood         | GET    | returns current flooded state true/false |
-| /api/flood/history | GET    | returns timestamped recent flood events |
-| /api/co            | GET    | returns current CO numerical reading |
-| /api/co/history    | GET    | returns timestamped recent CO danger events |
-| /api/no2           | GET    | returns current NO2 numerical reading |
-| /api/no2/history   | GET    | returns timestamped recent NO2 danger events |
+| ---                | ---    | ---   
+| /api/flood         | GET    | returns current flooded state true/false
+| /api/flood/history | GET    | returns timestamped recent flood events
+| /api/co            | GET    | returns current CO numerical reading
+| /api/co/history    | GET    | returns timestamped recent CO danger events
+| /api/no2           | GET    | returns current NO2 numerical reading
+| /api/no2/history   | GET    | returns timestamped recent NO2 danger events
