@@ -1,3 +1,4 @@
 /lib
 /CircuitPython
 /src/lib
+/src/secrets.py
